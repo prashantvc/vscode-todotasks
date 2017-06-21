@@ -1,9 +1,9 @@
 {
-    "name": "todotasks",
-    "displayName": "To Do Tasks",
-    "description": "A To Do tasks extension for Visual Studio Code",
-    "version": "0.4.0",
-    "publisher": "sandy081",
+    "name": "taskpaper",
+    "displayName": "VS Taskpaper",
+    "description": "A Taskpaper extension for VS Code",
+    "version": "0.0.1",
+    "publisher": "prashantvc",
     "engines": {
         "vscode": "^1.0.0"
     },
@@ -20,14 +20,14 @@
         "theme": "light"
     },
     "icon": "todotasks.PNG",
-    "homepage": "https://github.com/sandy081/vscode-todotasks/blob/master/README.md",
+    "homepage": "https://github.com/prashantvc/vscode-todotasks/blob/master/README.md",
     "bugs": {
-        "url": "https://github.com/sandy081/vscode-todotasks/issues"
+        "url": "https://github.com/prashantvc/vscode-todotasks/issues"
     },
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sandy081/vscode-todotasks"
+        "url": "https://github.com/prashantvc/vscode-todotasks"
     },
     "activationEvents": [
         "onLanguage:todo",
@@ -46,7 +46,8 @@
                 ],
                 "extensions": [
                     ".todo",
-                    ".tasks"
+                    ".tasks",
+                    ".taskpaper"
                 ],
                 "configuration": "./todo.configuration.json"
             }
@@ -101,7 +102,7 @@
     },
     "devDependencies": {
         "chai": "^3.5.0",
-        "typescript": "^1.8.5",
-        "vscode": "^0.11.0"
+        "typescript": "^2.0.3",
+        "vscode": "^1.0.0"
     }
 }

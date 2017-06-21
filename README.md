@@ -1,7 +1,11 @@
-# To Do Tasks
+# VS Taskpaper
+
+This is fork from [sandy081/vscode-todotasks](https://github.com/sandy081/vscode-todotasks), the idea is to get an [Taskpaper](https://www.taskpaper.com/) extesion for VS Code that performs as good as Mac app 
+
+## To Do Tasks
 A simple and handy extension for [Visual Studio Code](http://code.visualstudio.com/) to organize your to-do tasks.
 
-![](https://raw.githubusercontent.com/sandy081/vscode-todotasks/master/resources/How%20to%20use%20todos.png)
+![](https://raw.githubusercontent.com/prashantvc/vscode-todotasks/master/resources/How%20to%20use%20todos.png)
 
 ## Install in TWO steps
 * In VSCode press F1 or Cmd+Shift+p (Ctrl+Shift+p on Windows and Linux) to open command pallette
