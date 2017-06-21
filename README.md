@@ -1,6 +1,6 @@
 # VS Taskpaper
 
-This is fork from [sandy081/vscode-todotasks](https://github.com/sandy081/vscode-todotasks), the idea is to get an [Taskpaper](https://www.taskpaper.com/) extesion for VS Code that performs as good as Mac app 
+This is fork from [sandy081/vscode-todotasks](https://github.com/sandy081/vscode-todotasks), the idea is to create a [Taskpaper](https://www.taskpaper.com/) extesion for VS Code that performs as good as Mac app 
 
 ## To Do Tasks
 A simple and handy extension for [Visual Studio Code](http://code.visualstudio.com/) to organize your to-do tasks.
